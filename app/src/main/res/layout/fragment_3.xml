@@ -3,12 +3,11 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#800080">
-
+    android:background="#D40000">
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="INI ADALAH CONTOH FRAGMENT 1"
+        android:text="INI ADALAH CONTOH FRAGMENT 3"
         android:textColor="#ffffff"
         android:textSize="20dp"
         />

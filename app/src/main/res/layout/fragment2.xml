@@ -9,6 +9,6 @@
         android:layout_height="match_parent"
         android:text="INI ADALAH CONTOH FRAGMENT 2"
         android:textColor="#ffffff"
-        android:textSize="30dp"
+        android:textSize="20dp"
         />
 </LinearLayout>
